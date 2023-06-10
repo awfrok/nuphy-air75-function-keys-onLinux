@@ -5,7 +5,7 @@ You can use Nuphy air 75's function keys as F1-F12 in windows-mode of it.
 > https://i.imgur.com/qrHQLII.png  
 > https://wiki.archlinux.org/title/Apple_Keyboard  
 
-![](https://github.com/awfrok/nuphy-air75-function-keys/blob/main/NuphyAir75_hid_apple_fnmode=0.png?raw=true)
+![](https://github.com/awfrok/nuhpy-air75-function-keys/blob/main/NuphyAir75_hid_apple_fnmode=0.png?raw=true)
 
 ## you can test it temporarily with root previlage.
 ```shell
