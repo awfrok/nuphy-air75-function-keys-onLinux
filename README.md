@@ -1,5 +1,6 @@
 # In Arch Linux, Nuphy Air 75, function keys settings
-You can use Nuphy air 75's function keys as F1-F12 in windows-mode of it.
+You can use Nuphy Air 75's function keys as F1-F12 in windows-mode of it.
+
 
 > https://www.reddit.com/r/MechanicalKeyboards/comments/tgjvp2/nuphy_air75_on_linux_issues_with_fn/  
 > https://i.imgur.com/qrHQLII.png  
