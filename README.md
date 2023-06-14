@@ -15,7 +15,7 @@ echo 0 >> /sys/module/hid_apple/parameters/fnmode
 
 ## if this test works, make it permanent.
 
-- make the file /etc/modprobe.d/hid_apple.conf.
+- make the file `/etc/modprobe.d/hid_apple.conf`.
 - add the following
 ```shell
 options hid_apple fnmode=0
