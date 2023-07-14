@@ -8,7 +8,7 @@ You can use Nuphy Air 75's function keys as F1-F12 in windows-mode of it when wi
 
 ![](https://github.com/awfrok/nuhpy-air75-function-keys/blob/main/NuphyAir75_hid_apple_fnmode=0.png?raw=true)
 
-## you can test it temporarily with root previlage.
+## you can test it temporarily with root privilege.
 ```shell
 echo 0 >> /sys/module/hid_apple/parameters/fnmode
 ```
